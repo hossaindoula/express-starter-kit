@@ -16,7 +16,7 @@
     "pm2:monitor": "pm2 monit"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "~1.17.1",
     "busboy": "^0.2.14",
     "cookie-parser": "~1.4.3",
